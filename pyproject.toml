@@ -1,0 +1,11 @@
+[project]
+name = "flask-uv-ruff-granian"
+version = "0.1.0"
+description = "riset flask uv ruff granian"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "flask>=3.0.3",
+    "granian>=1.6.3",
+    "ruff>=0.7.1",
+]
